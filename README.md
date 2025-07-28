@@ -1,5 +1,5 @@
 # 👨‍💻 Devox Otieno Omollo  
-** Penetration Tester | Ethical Hacker | Secure DevOps Advocate**
+**Penetration Tester | Ethical Hacker | Secure DevOps Advocate**
 
 Hi there 👋  
 I'm Devox, a passionate cybersecurity professional and developer blending offensive security with secure software engineering. Currently pursuing a **Diploma in Computer Science & Mathematics** at **Zetech University**, I specialize in identifying vulnerabilities, securing cloud-native applications, and engineering practical defenses through red-team and blue-team strategies.
