@@ -1,85 +1,121 @@
-# 👨‍💻 Devox Otieno Omollo  
-**Penetration Tester | Ethical Hacker | Secure DevOps Advocate**
+# 👨‍💻 Devox Otieno Omollo
 
-Hi there 👋  
-I'm Devox, a passionate cybersecurity professional and developer blending offensive security with secure software engineering. Currently pursuing a **Diploma in Computer Science & Mathematics** , I specialize in identifying vulnerabilities, securing cloud-native applications, and engineering practical defenses through red-team and blue-team strategies.
+**Cybersecurity Professional | Full-Stack Developer | Secure DevOps Advocate**
 
----
-
-## 🛡️ Focus Areas
-
-- 🔍 **Penetration Testing & Vulnerability Assessment**  
-  Web, network, and API testing using industry-standard tools and custom scripts  
-- 🌐 **Secure Web & Cloud Development**  
-  DevSecOps for AWS/Azure environments, container hardening, CI/CD security  
-- 🧠 **Reverse Engineering & Malware Analysis**  
-  Static/dynamic analysis of binaries and APKs, CTF-driven research  
-- 🛠️ **Security Automation**  
-  Python/Bash scripting for recon, scanning, and exploit automation  
-- 📊 **Threat Detection & Incident Response**  
-  SIEM integration, log analysis, and real-time alerting with Suricata, Splunk  
+📍 Ruiru, Kiambu, Kenya  
+📧 devoxomollo@gmail.com | 📞 +254713318602  
+🔗 [Portfolio](https://omollodev.github.io/Personal-portfolio-website/) | [LinkedIn](https://linkedin.com/in/devoxomollo-7452b928b) | [GitHub](https://github.com/Omollodev)
 
 ---
 
-## 🧰 Tools & Technologies
+## 🚀 Who I Am
 
-`Python` `Bash` `SQL` `JavaScript`  
-`Kali Linux` `Metasploit` `Burp Suite` `Wireshark` `OWASP ZAP` `Nmap` `Hydra`  
-`Docker` `Kubernetes` `AWS` `Azure`  
-`Suricata` `Splunk` `ELK Stack` `Git`  
-`SOC Analyst Tooling` (`SIEM`, `SOAR`, `IDS/IPS`)
+I'm a **Cybersecurity Professional** and **Full-Stack Developer** who builds secure systems and breaks them — ethically. I bridge the gap between development and security, creating real-world applications while ensuring they're hardened against threats.
 
----
+My work spans:
+- 🔐 **Penetration testing & vulnerability assessment**
+- 💻 **Full-stack application development**
+- ☁️ **Cloud security & container hardening**
+- 📊 **Threat detection & SIEM integration**
 
-## 📂 Notable Projects
-
-- 🔐 **Web Security Lab**  
-  Custom environments built with OWASP Juice Shop, DVWA, [ECommerce Platform](https://github.com/Omollodev/ecommerce.git), and [Hotel Management System](https://github.com/Omollodev/hms-backend.git) for real-world vulnerability testing  
-- ☁️ **Cloud Security Sandbox**  
-  Deployed Dockerized applications on AWS & Azure with firewall rules, IAM policies, and container hardening  
-- 🏠 **Home Network Defense**  
-  VLAN segmentation, firewall policy tuning, IDS/IPS deployment, and endpoint protection setup  
-- 🚨 **SIEM & IDS Integration**  
-  Real-time intrusion detection and log correlation using Suricata + Splunk with custom dashboards  
+I multiple industry certifications from **Hack The Box**, **TryHackMe**, **Cisco**, and **Huawei**.
 
 ---
 
-## 📜 Certifications & Training
+## 🛠️ Technical Arsenal
 
-- **Hack The Box Academy**  
-  Bug Bounty Hunter • Penetration Tester • SOC Analyst  
-- **TryHackMe**  
-  Red Teaming • Reverse Engineering • Incident Response  
-- **Cisco Networking Academy**  
-  CCNA • CyberOps Associate  
-- **Huawei ICT Academy**  
-  Networking Fundamentals  
-- **Udemy**  
-  Programming for Offensive Security & Automation  
-
----
-
-## 🌱 Currently Exploring
-
-- 📱 Reverse engineering Android APKs for dynamic and static vulnerability research  
-- 🔒 Securing modern e-commerce platforms with robust authentication and access controls  
-- 🛠 Building open-source tools for automated recon, scanning, and enumeration  
-- 🎯 Participating in CTFs and bug bounty programs with a focus on logic flaws and IDORs  
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React, HTML5, CSS3, JavaScript, Bootstrap |
+| **Backend** | Node.js, Express, Python (Flask/Django), Java (Spring Boot) |
+| **Databases** | MongoDB, PostgreSQL, MySQL, SQLite |
+| **Cybersecurity** | Penetration Testing, Vulnerability Assessment, Burp Suite, Nmap, Wireshark, Metasploit, OWASP ZAP, Hydra |
+| **Networking** | TCP/IP, DNS, Firewalls, VLANs, Cisco, IDS/IPS |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS, Microsoft Azure, Git, GitHub |
+| **Security Monitoring** | Splunk, Suricata, SIEM, ELK Stack |
+| **Operating Systems** | Linux (Kali, Ubuntu), Windows |
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 📂 Featured Work
 
-I'm actively looking to collaborate on:
+### Full-Stack Applications
 
-- 🤝 Bug bounty reports, research write-ups & disclosure methodologies  
-- 🧰 Open-source cybersecurity tooling  
-- 🕵️‍♂️ Capture The Flag (CTF) teams and competitions  
-- 🧠 Knowledge sharing in infosec communities  
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **Car Wash Management System** | django, bootstraps, PostgreSQL, JWT | Customer mgmt, service tracking, payments, admin dashboard |
+| **Barcode Unit Registration** | Node.js, React.js, MongoDB, Kotlin | Barcode generation, scanner integration, audit trail |
+| **Repair Job Tracker** | React, Django, SQLite | Job scheduling, status tracking, inventory, invoices |
+| **Legacy Core Banking System** | Java, Spring Boot, MySQL | Account mgmt, transactions, fund transfers, loan calculator |
+| **Personal Portfolio** | React, CSS, JavaScript | Live portfolio showcasing all projects |
 
-> _"Let’s build a safer internet, one commit at a time."_  
+### Cybersecurity & Networking
+
+| Project | Description |
+|---------|-------------|
+| **Web Security Testing Lab** | Dockerized OWASP Juice Shop & DVWA for ethical hacking practice |
+| **SIEM Implementation** | Real-time intrusion detection with Splunk + Suricata |
+| **Home Office Network Setup** | Firewalls, VLANs, security policies for secure transmission |
+| **Cloud Security Projects** | Secure containerized deployments on AWS & Azure with Docker/Kubernetes |
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omollodev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omollodev&layout=compact&theme=radical)
+## 📜 Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| Bug Bounty Hunter | Hack The Box Academy |
+| Certified Penetration Tester | Hack The Box Academy |
+| SOC Analyst | Hack The Box Academy |
+| Red Teamer | TryHackMe |
+| Incident Response | TryHackMe |
+| Reverse Engineering | TryHackMe |
+| Networking Basics & CCNA | Cisco Networking Academy |
+| Cybersecurity | Cisco Networking Academy |
+| Networking Certification | Huawei ICT Academy |
+| Programming Certification | Udemy |
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Period |
+|---------------|-------------|--------|
+| Diploma in Computer Science & Mathematics | Zetech University | 2024 – 2026 |
+| Cisco Networking Academy | Cisco Online | 2022 – 2023 |
+| BSc Mathematical Statistics & Programming (deferred) | Kenyatta University | 2023 – 2028 |
+
+---
+
+## 🔭 What I'm Working On
+
+- 🔐 Advanced penetration testing methodologies
+- 🛡️ Securing full-stack applications in production
+- 🧠 CTF challenges & bug bounty programs
+- ☁️ Cloud security automation & DevSecOps pipelines
+- 📱 Reverse engineering Android applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+- 🤝 **Collaboration** on security tools & open-source projects
+- 🔒 **Bug bounty** partnerships & research
+- 🧠 **Knowledge sharing** in cybersecurity communities
+- 💼 **Freelance/Contract** opportunities in security or development
+
+📧 **Email:** devoxomollo@gmail.com  
+📞 **Phone:** +254713318602  
+🌐 **Portfolio:** https://omollodev.github.io/Personal-portfolio-website/
+
+---
+
+> *"Building secure systems. Breaking them ethically. Securing the digital frontier."*
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omollodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github)
+![GitHub Streak](https://streak-stats.demolab.com?user=Omollodev&theme=radical&date_format=j%20M%5B%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omollodev&layout=compact&theme=radical&langs_count=8)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omollodev&theme=react-dark&hide_border=true&area=true)
