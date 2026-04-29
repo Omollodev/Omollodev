@@ -115,7 +115,16 @@ I'm open to:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omollodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github)
-![GitHub Streak](https://streak-stats.demolab.com?user=Omollodev&theme=radical&date_format=j%20M%5B%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omollodev&layout=compact&theme=radical&langs_count=8)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omollodev&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omollodev&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Omollodev&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omollodev&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omollodev&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
