@@ -46,35 +46,21 @@ I multiple industry certifications from **Hack The Box**, **TryHackMe**, **Cisco
 |---------|-------|------------|
 | **Car Wash Management System** | django, bootstraps, PostgreSQL, JWT | Customer mgmt, service tracking, payments, admin dashboard |
 | **Barcode Unit Registration** | Node.js, React.js, MongoDB, Kotlin | Barcode generation, scanner integration, audit trail |
-| **Repair Job Tracker** | React, Django, SQLite | Job scheduling, status tracking, inventory, invoices |
-| **Legacy Core Banking System** | Java, Spring Boot, MySQL | Account mgmt, transactions, fund transfers, loan calculator |
-| **Personal Portfolio** | React, CSS, JavaScript | Live portfolio showcasing all projects |
+
 
 ### Cybersecurity & Networking
 
 | Project | Description |
 |---------|-------------|
-| **Web Security Testing Lab** | Dockerized OWASP Juice Shop & DVWA for ethical hacking practice |
 | **SIEM Implementation** | Real-time intrusion detection with Splunk + Suricata |
-| **Home Office Network Setup** | Firewalls, VLANs, security policies for secure transmission |
 | **Cloud Security Projects** | Secure containerized deployments on AWS & Azure with Docker/Kubernetes |
 
 ---
 
 ## Certifications
 
-| Certification | Issuer |
-|---------------|--------|
-| Bug Bounty Hunter | Hack The Box Academy |
-| Certified Penetration Tester | Hack The Box Academy |
-| SOC Analyst | Hack The Box Academy |
-| Red Teamer | TryHackMe |
-| Incident Response | TryHackMe |
-| Reverse Engineering | TryHackMe |
-| Networking Basics & CCNA | Cisco Networking Academy |
-| Cybersecurity | Cisco Networking Academy |
-| Networking Certification | Huawei ICT Academy |
-| Programming Certification | Udemy |
+There are many ceritifcation use this link to view them **[certification](https://django-portfolio.vercel.app)**
+
 
 ---
 
