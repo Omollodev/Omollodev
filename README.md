@@ -2,27 +2,28 @@
 
 **Cybersecurity Professional | Full-Stack Developer | Secure DevOps Advocate**
 
-📍 Ruiru, Kiambu, Kenya  
-📧 devoxomollo@gmail.com | 📞 +254713318602  
-🔗 [Portfolio](https://omollodev.github.io/Personal-portfolio-website/) | [LinkedIn](https://linkedin.com/in/devoxomollo-7452b928b) | [GitHub](https://github.com/Omollodev)
+Ruiru, Kiambu, Kenya  
+devoxomollo@gmail.com | 
++254713318602  
+[Portfolio](https://omollodev.github.io/Personal-portfolio-website/) | [LinkedIn](https://linkedin.com/in/devoxomollo-7452b928b) | [GitHub](https://github.com/Omollodev)
 
 ---
 
-## 🚀 Who I Am
+## Who I Am
 
 I'm a **Cybersecurity Professional** and **Full-Stack Developer** who builds secure systems and breaks them — ethically. I bridge the gap between development and security, creating real-world applications while ensuring they're hardened against threats.
 
 My work spans:
-- 🔐 **Penetration testing & vulnerability assessment**
-- 💻 **Full-stack application development**
-- ☁️ **Cloud security & container hardening**
-- 📊 **Threat detection & SIEM integration**
+- **Penetration testing & vulnerability assessment**
+- **Full-stack application development**
+- **Cloud security & container hardening**
+- **Threat detection & SIEM integration**
 
 I multiple industry certifications from **Hack The Box**, **TryHackMe**, **Cisco**, and **Huawei**.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 | Category | Technologies |
 |----------|--------------|
@@ -37,7 +38,7 @@ I multiple industry certifications from **Hack The Box**, **TryHackMe**, **Cisco
 
 ---
 
-## 📂 Featured Work
+## Featured Work
 
 ### Full-Stack Applications
 
@@ -60,7 +61,7 @@ I multiple industry certifications from **Hack The Box**, **TryHackMe**, **Cisco
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuer |
 |---------------|--------|
@@ -77,41 +78,27 @@ I multiple industry certifications from **Hack The Box**, **TryHackMe**, **Cisco
 
 ---
 
-## 🎓 Education
+##  What I'm Working On
 
-| Qualification | Institution | Period |
-|---------------|-------------|--------|
-| Diploma in Computer Science & Mathematics | Zetech University | 2024 – 2026 |
-| Cisco Networking Academy | Cisco Online | 2022 – 2023 |
-| BSc Mathematical Statistics & Programming (deferred) | Kenyatta University | 2023 – 2028 |
-
----
-
-## 🔭 What I'm Working On
-
-- 🔐 Advanced penetration testing methodologies
-- 🛡️ Securing full-stack applications in production
-- 🧠 CTF challenges & bug bounty programs
-- ☁️ Cloud security automation & DevSecOps pipelines
-- 📱 Reverse engineering Android applications
+-  Advanced penetration testing methodologies
+-  Securing full-stack applications in production
+-  CTF challenges & bug bounty programs
+-  Cloud security automation & DevSecOps pipelines
+-  Reverse engineering Android applications
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm open to:
-- 🤝 **Collaboration** on security tools & open-source projects
-- 🔒 **Bug bounty** partnerships & research
-- 🧠 **Knowledge sharing** in cybersecurity communities
-- 💼 **Freelance/Contract** opportunities in security or development
+-  **Collaboration** on security tools & open-source projects
+-  **Bug bounty** partnerships & research
+-  **Knowledge sharing** in cybersecurity communities
+-  **Freelance/Contract** opportunities in security or development
 
-📧 **Email:** devoxomollo@gmail.com  
-📞 **Phone:** +254713318602  
-🌐 **Portfolio:** https://omollodev.github.io/Personal-portfolio-website/
-
----
-
-> *"Building secure systems. Breaking them ethically. Securing the digital frontier."*
+**Email:** devoxomollo@gmail.com  
+**Phone:** +254713318602  
+**Portfolio:** https://omollodev.github.io/Personal-portfolio-website/
 
 ---
 
