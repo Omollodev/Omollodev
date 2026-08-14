@@ -1,11 +1,11 @@
 # 👨‍💻 Devox Otieno Omollo
 
-**Cybersecurity Professional | Full-Stack Developer | Secure DevOps Advocate**
+**Cybersecurity Enthusiastic | Full-Stack Developer**
 
 Ruiru, Kiambu, Kenya  
 devoxomollo@gmail.com | 
 +254713318602  
-[Portfolio](https://omollodev.github.io/Personal-portfolio-website/) | [LinkedIn](https://linkedin.com/in/devoxomollo-7452b928b) | [GitHub](https://github.com/Omollodev)
+[Portfolio](https://devox-portfolio.vercel.app/) | [LinkedIn](https://linkedin.com/in/devoxomollo-7452b928b) | [GitHub](https://github.com/Omollodev)
 
 ---
 
@@ -31,7 +31,7 @@ I'm open to:
 
 **Email:** devoxomollo@gmail.com  
 **Phone:** +254713318602  
-**Portfolio:** https://omollodev.github.io/Personal-portfolio-website/
+[**Portfolio:**](https://devox-portfolio.vercel.app/)
 
 ---
 
