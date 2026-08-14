@@ -11,66 +11,13 @@ devoxomollo@gmail.com |
 
 ## Who I Am
 
-I'm a **Cybersecurity Professional** and **Full-Stack Developer** who builds secure systems and breaks them — ethically. I bridge the gap between development and security, creating real-world applications while ensuring they're hardened against threats.
+At **DevoxSec**, we offer unique and innovative Software solutions with unmatched quality and innovative ideas across the Software Development Life Cycle 
 
 My work spans:
 - **Penetration testing & vulnerability assessment**
 - **Full-stack application development**
 - **Cloud security & container hardening**
 - **Threat detection & SIEM integration**
-
-I multiple industry certifications from **Hack The Box**, **TryHackMe**, **Cisco**, and **Huawei**.
-
----
-
-## Technical Arsenal
-
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React, HTML5, CSS3, JavaScript, Bootstrap |
-| **Backend** | Node.js, Express, Python (Flask/Django), Java (Spring Boot) |
-| **Databases** | MongoDB, PostgreSQL, MySQL, SQLite |
-| **Cybersecurity** | Penetration Testing, Vulnerability Assessment, Burp Suite, Nmap, Wireshark, Metasploit, OWASP ZAP, Hydra |
-| **Networking** | TCP/IP, DNS, Firewalls, VLANs, Cisco, IDS/IPS |
-| **Cloud & DevOps** | Docker, Kubernetes, AWS, Microsoft Azure, Git, GitHub |
-| **Security Monitoring** | Splunk, Suricata, SIEM, ELK Stack |
-| **Operating Systems** | Linux (Kali, Ubuntu), Windows |
-
----
-
-## Featured Work
-
-### Full-Stack Applications
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| **Car Wash Management System** | django, bootstraps, PostgreSQL, JWT | Customer mgmt, service tracking, payments, admin dashboard |
-| **Barcode Unit Registration** | Node.js, React.js, MongoDB, Kotlin | Barcode generation, scanner integration, audit trail |
-
-
-### Cybersecurity & Networking
-
-| Project | Description |
-|---------|-------------|
-| **SIEM Implementation** | Real-time intrusion detection with Splunk + Suricata |
-| **Cloud Security Projects** | Secure containerized deployments on AWS & Azure with Docker/Kubernetes |
-
----
-
-## Certifications
-
-There are many ceritifcation use this link to view them **[certification](https://django-portfolio.vercel.app)**
-
-
----
-
-##  What I'm Working On
-
--  Advanced penetration testing methodologies
--  Securing full-stack applications in production
--  CTF challenges & bug bounty programs
--  Cloud security automation & DevSecOps pipelines
--  Reverse engineering Android applications
 
 ---
 
