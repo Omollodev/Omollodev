@@ -6,8 +6,6 @@
 📧 [devoxomollo@gmail.com](mailto\:devoxomollo@gmail.com) | 📞 +254713318602
 
 
-\
-
 
 ---
 
@@ -86,17 +84,19 @@ I'm open to:
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=Omollodev&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide_border=true](https://github-readme-stats.vercel.app/api?username=Omollodev\&show_icons=true\&theme=radical\&include_all_commits=true\&rank_icon=github\&show=prs_merged,prs_merged_percentage\&hide_border=true)" alt="Devox GitHub Statistics" /> \</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omollodev&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats" />
+</p>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com/?user=Omollodev&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true](https://streak-stats.demolab.com/?user=Omollodev\&theme=radical\&date_format=j%20M%5B%20Y%5D\&hide_border=true)" alt="GitHub Contribution Streak" /> \</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Omollodev&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omollodev&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Langs" />
+</p>
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Omollodev&layout=compact&theme=radical&langs_count=8&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Omollodev\&layout=compact\&theme=radical\&langs_count=8\&hide_border=true)" alt="Most Used Programming Languages" /> \</p>
-
-## 📈 Contribution Activity
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Omollodev&theme=react-dark&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=Omollodev\&theme=react-dark\&hide_border=true\&area=true)" alt="GitHub Contribution Activity" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omollodev&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
