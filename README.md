@@ -2,10 +2,12 @@
 
 ### Cybersecurity Practitioner | Full-Stack Software Engineer | DevSecOps Enthusiast
 
-📍 Ruiru, Kiambu, Kenya
-📧 [devoxomollo@gmail.com](mailto\:devoxomollo@gmail.com) | 📞 +254713318602
+📍 Ruiru, Kiambu, Kenya  
+📧 [devoxomollo@gmail.com](mailto:devoxomollo@gmail.com) | 📞 +254713318602
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.devoxsec.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devoxomollo-7452b928b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omollodev)
 
 ---
 
@@ -32,7 +34,7 @@ My interests span application security, offensive security, secure software arch
 | Programming Languages | Python, JavaScript |
 | Frontend Development | React, HTML5, CSS3 |
 | Backend Development | Node.js, Express.js, Django |
-| API Development | RESTful APIs, Express.js REST APIs, Django REST Framework (DRF) |
+| API Development | RESTful APIs, Express.js, Django REST Framework (DRF) |
 | Mobile Development | React Native, Expo |
 | Databases | PostgreSQL, MySQL, SQLite |
 | DevOps & Infrastructure | Docker, Git, GitHub Actions, Linux |
@@ -40,20 +42,20 @@ My interests span application security, offensive security, secure software arch
 
 ### Backend & API Engineering
 
-- Building RESTful APIs using **Node.js and Express.js**.
-- Developing REST APIs using **Django REST Framework (DRF)**.
+- Building RESTful APIs using Node.js and Express.js.
+- Developing REST APIs using Django REST Framework (DRF).
 - Implementing authentication, authorization, and role-based access control.
 - Designing database models, API endpoints, and backend business logic.
 - Integrating frontend and mobile applications with backend services.
 - Applying API security practices, input validation, and error handling.
 
-## 💼 What I'm Currently Working On
+## 💼 Current Engineering Focus
 
-- 🏨 Developing **Blue Bird Hotel**, a comprehensive hotel management platform.
-- 🏦 Working on **DVS SACCO**, a financial management and cooperative technology project.
-- 🔐 Advancing my knowledge in penetration testing, application security, and vulnerability research.
-- ⚙️ Improving secure software delivery through DevSecOps practices.
-- 🚀 Building practical technology solutions through DevoxSec Technologies.
+- 💻 **Full-Stack Engineering** – Building scalable web and mobile applications with modern frontend and backend technologies.
+- 🔌 **Backend & API Development** – Designing and implementing RESTful APIs using Express.js and Django REST Framework.
+- 🔐 **Application Security Research** – Practising web application penetration testing, vulnerability assessment, and responsible security research.
+- ⚙️ **DevSecOps Engineering** – Implementing secure development workflows, Docker hardening, automated testing, and CI/CD pipelines.
+- 🚀 **Technology Innovation** – Developing practical digital solutions through DevoxSec Technologies.
 
 ## 🎯 Professional Interests
 
@@ -75,9 +77,9 @@ I'm open to:
 - **Bug Bounty Research** – Responsible vulnerability discovery and disclosure.
 - **Freelance & Consulting** – Software development and cybersecurity engagements.
 
-📧 **Email:** [devoxomollo@gmail.com](mailto\:devoxomollo@gmail.com)
-📞 **Phone:** +254713318602
-🌐 **Portfolio:** [https://devox-portfolio.vercel.app/](https://devox-portfolio.vercel.app/)
+📧 **Email:** [devoxomollo@gmail.com](mailto:devoxomollo@gmail.com)  
+📞 **Phone:** +254713318602  
+🌐 **Portfolio:** [https://portfolio.devoxsec.com/](https://portfolio.devoxsec.com/)  
 🏢 **Company:** [https://devoxsec.com/](https://devoxsec.com/)
 
 ---
@@ -85,23 +87,25 @@ I'm open to:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omollodev&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omollodev&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide_border=true" alt="Devox GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Omollodev&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omollodev&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=Omollodev&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omollodev&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omollodev&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Programming Languages" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omollodev&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Activity" />
 </p>
 
 ---
 
-\<p align="center">   \*\*Building with purpose. Securing with precision. Innovating without limits.\*\*
 
-*Devox Otieno Omollo | DevoxSec Technologies*
-
-\</p>
+<p align="center"><strong>Building with purpose. Securing with precision. Innovating without limits.</strong><br/>
+<em>Devox Otieno Omollo | DevoxSec Technologies</em></p>
